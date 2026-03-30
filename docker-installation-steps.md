@@ -28,6 +28,9 @@ That's it — Docker will be installed successfully.
 
 - Docker daemon runs as **root**
 - Socket file: /var/run/docker.sock
+```bash
+/var/run/docker.sock
+```
 ````
 
 ### 👉 Accessible only by:
