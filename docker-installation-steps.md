@@ -1,6 +1,6 @@
 ---
 
-````md id="n6v8kj"
+````md
 # Docker Installation on Ubuntu
 
 ## 📌 Installation Steps
