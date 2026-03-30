@@ -31,7 +31,7 @@ That's it — Docker will be installed successfully.
   
   ```text
   /var/run/docker.sock
-````
+ ```
 
 ### 👉 Accessible only by:
 
