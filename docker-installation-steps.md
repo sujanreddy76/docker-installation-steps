@@ -27,11 +27,8 @@ That's it — Docker will be installed successfully.
 ### 👉 Problem:
 
 - Docker daemon runs as **root**
-- Socket file:
-  
-  ```text
-  /var/run/docker.sock
- ```
+- Socket file: /var/run/docker.sock
+````
 
 ### 👉 Accessible only by:
 
